@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UiJetckPackCompose</string>
+    <string name="home">Home</string>
+    <string name="fav">Favourite</string>
+    <string name="feed">Feed</string>
+    <string name="profile">Profile</string>
+
+</resources>
